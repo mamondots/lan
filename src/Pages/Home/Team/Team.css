@@ -1,0 +1,40 @@
+.box-img{
+    position: relative;
+}
+.box-img::before{
+    position: absolute;
+    content:"";
+    width:100%;
+    height:100%;
+    left:0;
+    top:0;
+    background-image:linear-gradient(to top,#000000,#26262632 );
+}
+.sub-box{
+    position: relative;
+}
+.sub-box::before{
+    position: absolute;
+    content:"";
+    width:8px;
+    height:100%;
+    left:0;
+    top:0;
+    background-image:linear-gradient(to top,#49A9F4,#6C4EB9);
+}
+.icon{
+    transform:translateY(0px);
+    transition:0.5s;
+}
+.icon:hover{
+    transform:translateY(-4px);
+}
+.icon-box{
+    transform:translateY(30px);
+    transition:0.5s;
+    opacity:0;
+}
+.team-box:hover .icon-box{
+    transform:translateY(0px);
+    opacity:1;
+}

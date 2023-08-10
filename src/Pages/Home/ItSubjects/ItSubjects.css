@@ -1,0 +1,21 @@
+.skilled{
+    position: relative;
+}
+.skilled::before{
+    position: absolute;
+    content:"";
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+    background-image:linear-gradient(to top,#1c2845c4,#b5bdc02a);
+    border-radius:4px;
+}
+.full-box{
+    position: relative;
+    transition:0.5s;
+    transform:translateY(0px);
+}
+.full-box:hover{
+    transform:translateY(-20px);
+}

@@ -1,0 +1,10 @@
+.arrow-box{
+    position: relative;
+}
+.arrow-box .left-arrow{
+    transform:translateX(0px);
+    transition:0.5s;
+}
+.arrow-box:hover .left-arrow{
+    transform:translateX(5px);
+}

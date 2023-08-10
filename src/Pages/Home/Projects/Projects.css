@@ -1,0 +1,36 @@
+.slick-dots{
+    position:relative;
+    top:10px;
+}
+
+.slick-dots li button{
+    width:25px;
+    height:15px;
+}
+.slick-dots li button::before{
+    color:#005DE0 !important;
+    font-size:10px !important;
+    text-align:center !important;
+    top:1px;
+}
+.img-slide{
+    position: relative;
+}
+.img-slide::before{
+    position: absolute;
+    content:"";
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+    background-image:linear-gradient(to top,#000000,#26262686 );
+    border-radius:8px;
+}
+.slide-btn{
+    border:2px solid #005DE0;
+    transition:0.5s;
+}
+.slide-btn:hover{
+    background-color: #005DE0;
+    color:#fff;
+}

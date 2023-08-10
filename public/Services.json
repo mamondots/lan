@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://i.ibb.co/N2JCW8F/service-1.png",
+        "title": "Strategy & Discovery",
+        "description": "We provide the most responsive and functional IT design for companies and businesses worldwide.",
+        "backImg": "https://i.ibb.co/fGttvNG/s-shape-2.png"
+    },      
+    {
+        "image": "https://i.ibb.co/bBfpW6P/service-2.png",
+        "title": "Software Solution",
+        "description": "We provide the most responsive and functional IT design for companies and businesses worldwide.",
+        "backImg": "https://i.ibb.co/fGttvNG/s-shape-2.png"
+    },      
+    {
+        "image": "https://i.ibb.co/Dg8Bbqp/service-3.png",
+        "title": "Technology Consulting",
+        "description": "We provide the most responsive and functional IT design for companies and businesses worldwide.",
+        "backImg": "https://i.ibb.co/fGttvNG/s-shape-2.png"
+    },      
+    {
+        "image": "https://i.ibb.co/ZKM4NNB/service-4.png",
+        "title": "Business Analytics",
+        "description": "We provide the most responsive and functional IT design for companies and businesses worldwide.",
+        "backImg": "https://i.ibb.co/fGttvNG/s-shape-2.png"
+    }     
+]

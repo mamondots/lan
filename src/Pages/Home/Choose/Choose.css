@@ -1,0 +1,40 @@
+.choose-box{
+    position: relative;
+}
+.choose-box::before{
+    position: absolute;
+    content:"";
+    width:100%;
+    height:100%;
+    left:0;
+    top:0;
+    background-image:linear-gradient(to top,#000000bd,#2626264d );
+    border-radius:4px;
+}
+.side-line{
+    position: relative;
+}
+.side-line::before{
+    position: absolute;
+    content:"";
+    left:0;
+    top:0;
+    height:100%;
+    width:4px;
+    background-image:linear-gradient(to top,#4F9BEB,#6C50BB);
+}
+
+.chose-info{
+    transform:translateY(100px);
+    transition:0.5s;
+}
+.chose-details{
+    opacity:0;
+    transition:0.5s;
+}
+.chose-total-box:hover .chose-details{
+    opacity:1;
+}
+.chose-total-box:hover .chose-info{
+    transform:translateY(0px);
+}

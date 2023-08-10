@@ -1,0 +1,7 @@
+.nav-list li{
+    transition:0.5s;
+    font-size:18px;
+}
+.nav-list li:hover{
+    color:#005DE0;
+}

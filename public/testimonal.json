@@ -1,0 +1,21 @@
+[
+    {
+      "image": "https://i.ibb.co/Mp93D5J/skill-img-1.jpg",
+      "name": "Mike Fermalin",
+      "postion":"CEO Harlond inc",
+      "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum est neque repellendus. Rerum consequatur."
+    },
+    {
+      "image": "https://i.ibb.co/DfCthtF/skill-img-2.jpg",
+      "name": "Mike Horlder",
+      "postion":"CEO Harlond inc",
+      "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum est neque repellendus. Rerum consequatur."
+    },
+    {
+      "image": "https://i.ibb.co/PCrm1BX/skill-img-4.jpg",
+      "name": "Mike Fermalin",
+      "postion":"CEO Harlond inc",
+      "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum est neque repellendus. Rerum consequatur."
+    } 
+   
+  ]
